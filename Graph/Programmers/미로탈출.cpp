@@ -1,5 +1,4 @@
-# CodingTest
-prepare coding test for job
+// https://jypark1111.tistory.com/manage/posts/
 #include <string>
 #include <vector>
 #include <iostream>
@@ -68,7 +67,6 @@ ll bfs(pi s , ll n, ll m, char target){
     }
     return cnt;
 }
-
 
 int solution(vector<string> maps) {
     // TO DO
